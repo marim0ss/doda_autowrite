@@ -11,3 +11,5 @@ https://script.google.com/u/2/home/projects/1AjP-7uTCCGRlemI800t3zAvNN90iVGdyYJZ
 ## dodaのみ共有フォルダへのリリース版
 https://script.google.com/d/1AjP-7uTCCGRlemI800t3zAvNN90iVGdyYJZM-AdGHxVqf1duJop8l2bp/edit?mid=ACjPJvFwacGJrNwrJJnws0O4FVt2-OjnpUDWf-q4FqmQxJT_e7SsYeZXLf23MMqRZTAgI-SJD7Fv5ZJ6ftiC8kvtzzz83W4bx5ljVk-hHRc5iX9X1WIE2OG1-K2wsNI_92yjKMaa-Ox0ItU&uiv=2
 
+Release版トリガー
+https://script.google.com/u/2/home/projects/1AjP-7uTCCGRlemI800t3zAvNN90iVGdyYJZM-AdGHxVqf1duJop8l2bp/triggers?owned_by=1
