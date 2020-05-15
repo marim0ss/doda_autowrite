@@ -1,0 +1,2 @@
+# doda_autowrite
+dodaのみ
